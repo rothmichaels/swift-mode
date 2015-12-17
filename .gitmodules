@@ -1,3 +1,0 @@
-[submodule "lib/vendor/submodules/swift-mode"]
-	path = lib/vendor/submodules/swift-mode
-	url = git@github.com:chrisbarrett/swift-mode.git
