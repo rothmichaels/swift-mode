@@ -12,5 +12,3 @@
           (lambda ()
             (setq swift-basic-offset 4)
             (setq swift-offset-c 4)))
-
-(live-load-config-file "bindings.el")
